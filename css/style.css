@@ -1,3 +1,13 @@
 .nav{
-    height: 200px;
+    height: 50px;
+}
+.nav-item0{
+    color: white;
+    font-weight: bold;
+}
+.card-img-top{
+    height: 250px;
+}
+.iterate1{
+    width: 700px;
 }
